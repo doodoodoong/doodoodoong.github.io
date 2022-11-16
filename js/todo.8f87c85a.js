@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_4week"]=self["webpackChunk_4week"]||[]).push([[300],{8255:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,n=e._self._c;return n("div",[n("h1",[e._v("this is To-do page")])])}],s={},c=s,f=t(1001),i=(0,f.Z)(c,u,r,!1,null,"fc5e8b2a",null),l=i.exports}}]);
+//# sourceMappingURL=todo.8f87c85a.js.map
