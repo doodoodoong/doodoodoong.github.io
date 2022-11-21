@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunk_4week"]=self["webpackChunk_4week"]||[]).push([[443],{7698:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=function(){var e=this;e._self._c;return e._m(0)},s=[function(){var e=this,n=e._self._c;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an weather page")])])}],r=t(1001),a={},l=(0,r.Z)(a,u,s,!1,null,null,null),i=l.exports}}]);
-//# sourceMappingURL=about.f52f6762.js.map

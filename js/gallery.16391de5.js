@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunk_4week"]=self["webpackChunk_4week"]||[]).push([[121],{4004:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v("this is galley page")])},l=[],s={},r=s,i=u(1001),a=(0,i.Z)(r,t,l,!1,null,"75e30032",null),c=a.exports}}]);
-//# sourceMappingURL=gallery.16391de5.js.map
